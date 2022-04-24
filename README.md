@@ -14,15 +14,15 @@
   - Contribution
 
 ## **Table of Contents**
+* [3D]()
+  * EWOD step file
 * [Firmware](https://github.com/jminjares4/IPIA_FREERTOS/tree/main/Firmware)
-  * src
+  * source code
 * [Hardware](https://github.com/jminjares4/IPIA_FREERTOS/tree/main/Hardware)
   * EWOD KiCad
   * jlcpcb
 * [Images](https://github.com/jminjares4/IPIA_FREERTOS/tree/main/media)
-  * gif
-  * images
-  * video
+  * EWOD schematic and printed circuit board (PCB)   
 * [Readme]()
 
 
@@ -30,6 +30,12 @@
 - [x] Start git repo 
 - [ ] Add requirements
 - [ ] Update description
+
+## **EWOD PCB**
+<img src="images/EWOD_pcb.png">
+
+
+<img src="images/EWOD_clip.gif">
 
 
 ## **Development**
